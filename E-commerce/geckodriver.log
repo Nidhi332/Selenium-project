@@ -1,0 +1,1880 @@
+1594401114688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilec2jSjO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594401116823	Marionette	INFO	Listening on port 54230
+1594401116836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594401131046	Marionette	INFO	Stopped listening on port 54230
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594401639883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilegRmRTC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594401641896	Marionette	INFO	Listening on port 54803
+1594401642033	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594402840229	Marionette	INFO	Stopped listening on port 54803
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nette	WARN	TLS certificate errors will be ignored for this session
+1594401875429	Marionette	INFO	Stopped listening on port 55316
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594402063864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilesESvuE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594402066923	Marionette	INFO	Listening on port 55703
+1594402067122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594402081686	Marionette	INFO	Stopped listening on port 55703
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594402273879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofile4hhwCi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594402276196	Marionette	INFO	Listening on port 55998
+1594402276609	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:171594402838134	Marionette	INFO	Stopped listening on port 56194
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+urce://gre/actors/SelectChild.jsm, line 283: TypeError: this.element is null
+1594402814606	Marionette	INFO	Stopped listening on port 55998
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+#!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594402694198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilei1lAW3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594402696733	Marionette	INFO	Listening on port 56813
+1594402696944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594402721109	Marionette	INFO	Stopped listening on port 56813
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594810281047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileosJAPy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594810284065	Marionette	INFO	Listening on port 56982
+1594810284326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594810307050	Marionette	INFO	Stopped listening on port 56982
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594813697873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileCVwdmz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594813700122	Marionette	INFO	Listening on port 58106
+1594813700599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594813721778	Marionette	INFO	Stopped listening on port 58106
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594813736621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileMEg2PJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594813738587	Marionette	INFO	Listening on port 58259
+1594813738734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594813759651	Marionette	INFO	Stopped listening on port 58259
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594813850721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileTJh11G"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594813852777	Marionette	INFO	Listening on port 58476
+1594813852833	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594813877727	Marionette	INFO	Stopped listening on port 58476
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594816726218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileqd82z7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594816728622	Marionette	INFO	Listening on port 60884
+1594816728975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594819640373	Marionette	INFO	Stopped listening on port 60884
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileih6mZV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594817480401	Marionette	INFO	Listening on port 61799
+1594817480499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1594817583713	Marionette	INFO	Stopped listening on port 61799
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594818096877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileUA76Ky"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594818099157	Marionette	INFO	Listening on port 62611
+1594818099626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1594818128401	Marionette	INFO	Stopped listening on port 62611
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594818334892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileqSk37U"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594818337301	Marionette	INFO	Listening on port 63990
+1594818337637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1594818382773	Marionette	INFO	Stopped listening on port 63990
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594818714304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilefS08dn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594818717011	Marionette	INFO	Listening on port 54739
+1594818717082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1594819645657	Marionette	INFO	Stopped listening on port 54739
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594819085485	Marionette	INFO	Listening on port 58066
+1594819085524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://live.demoguru99.com/js/prototype/validation.js, line 29: ReferenceError: Class is not defined
+JavaScript error: http://live.demoguru99.com/js/scriptaculous/dragdrop.js, line 8: ReferenceError: Effect is not defined
+JavaScript error: http://live.demoguru99.com/js/scriptaculous/controls.js, line 40: uncaught exception: controls.js requires including script.aculo.us' effects.js library
+JavaScript error: http://live.demoguru99.com/js/scriptaculous/slider.js, line 16: ReferenceError: Class is not defined
+JavaScript error: http://live.demoguru99.com/js/varien/js.js, line 309: ReferenceError: Ajax is not defined
+JavaScript error: http://live.demoguru99.com/js/varien/form.js, line 25: ReferenceError: Class is not defined
+JavaScript error: http://live.demoguru99.com/js/mage/translate.js, line 26: ReferenceError: Class is not defined
+JavaScript error: http://live.demoguru99.com/skin/frontend/rwd/default/js/app.js, line 50: TypeError: Varien.searchForm is undefined
+JavaScript error: http://live.demoguru99.com/index.php/, line 75: TypeError: Translate is not a constructor
+1594819644039	Marionette	INFO	Stopped listening on port 58066
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594819478297	Marionette	INFO	Listening on port 58524
+1594819478490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://live.demoguru99.com/js/lib/jquery/noconflict.js, line 27: ReferenceError: jQuery is not defined
+JavaScript error: http://live.demoguru99.com/js/scriptaculous/dragdrop.js, line 8: ReferenceError: Effect is not defined
+[Child 10248, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Child 10248, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594819579638	Marionette	INFO	Stopped listening on port 58524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594890996611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilejWOBM4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594890999689	Marionette	INFO	Listening on port 59148
+1594890999886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://live.demoguru99.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594891499188	Marionette	INFO	Stopped listening on port 59148
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594891091238	Marionette	INFO	Listening on port 59331
+1594891091633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1594891503818	Marionette	INFO	Stopped listening on port 59331
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594891214093	Marionette	INFO	Listening on port 59515
+1594891214432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1594891250486	Marionette	INFO	Stopped listening on port 59515
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594891300805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileVb0WN1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594891303167	Marionette	INFO	Listening on port 59674
+1594891303559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1594891381059	Marionette	INFO	Stopped listening on port 59674
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594891512292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofile3lhwLZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594891514505	Marionette	INFO	Listening on port 59896
+1594891514539	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: "Error writing request: getGrids"
+1594895533264	Marionette	INFO	Stopped listening on port 59896
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594891901784	Marionette	INFO	Listening on port 60229
+1594891902200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/domnode59, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:94:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:778:14
+
+1594895533113	Marionette	INFO	Stopped listening on port 60229
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/js/varien/product.js, line 485: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594895533145	Marionette	INFO	Stopped listening on port 60504
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594893448004	Marionette	INFO	Listening on port 61205
+1594893448623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+1594895532546	Marionette	INFO	Stopped listening on port 61205
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594893676458	Marionette	INFO	Listening on port 61470
+1594893676591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594895538566	Marionette	INFO	Stopped listening on port 61470
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594893793936	Marionette	INFO	Listening on port 61681
+1594893794415	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+1594895540389	Marionette	INFO	Stopped listening on port 61681
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594894750647	Marionette	INFO	Listening on port 61976
+1594894750715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+1594895542387	Marionette	INFO	Stopped listening on port 61976
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594895558672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofile0lagRf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594895561289	Marionette	INFO	Listening on port 62210
+1594895561426	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594898107168	Marionette	INFO	Stopped listening on port 62210
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofile2bdVet"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594896134128	Marionette	INFO	Listening on port 62498
+1594896134400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594896163884	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1594896164157	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1594898108936	Marionette	INFO	Stopped listening on port 62498
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594896262703	Marionette	INFO	Listening on port 62739
+1594896263083	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 558"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:558:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 558, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 558: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://live.demoguru99.com"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594898111942	Marionette	INFO	Stopped listening on port 62739
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+istening on port 63115
+1594897671005	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594898113834	Marionette	INFO	Stopped listening on port 63115
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594897930903	Marionette	INFO	Listening on port 63307
+1594897931115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594898115964	Marionette	INFO	Stopped listening on port 63307
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594898036227	Marionette	INFO	Listening on port 63498
+1594898036526	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594898117908	Marionette	INFO	Stopped listening on port 63498
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594898163993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileSSInzt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594898166709	Marionette	INFO	Listening on port 63768
+1594898166770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594898276419	Marionette	INFO	Stopped listening on port 63768
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594898290126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofile69anqx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594898292385	Marionette	INFO	Listening on port 63937
+1594898292882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594898323027	Marionette	INFO	Stopped listening on port 63937
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594898334941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileB0yJgh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594898337260	Marionette	INFO	Listening on port 64107
+1594898337692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594899161129	Marionette	INFO	Stopped listening on port 64107
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594898381377	Marionette	INFO	Listening on port 64271
+1594898381698	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://gre/modules/BrowserUtils.jsm, line 514: TypeError: selection is null
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.warn: "Inspector destroyed while executing onReflow callback"
+1594899157765	Marionette	INFO	Stopped listening on port 64271
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+vaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594898762557	Marionette	INFO	Listening on port 64543
+1594898762756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594898805500	Marionette	INFO	Stopped listening on port 64543
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594898810415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilekAh6IK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594898812895	Marionette	INFO	Listening on port 64726
+1594898813179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594899154415	Marionette	INFO	Stopped listening on port 64726
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594898898746	Marionette	INFO	Listening on port 64987
+1594898898857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594899151238	Marionette	INFO	Stopped listening on port 64987
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594898996548	Marionette	INFO	Listening on port 65219
+1594898997007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594899148324	Marionette	INFO	Stopped listening on port 65219
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594899066363	Marionette	INFO	Listening on port 65377
+1594899066714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+1594899143621	Marionette	INFO	Stopped listening on port 65377
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594977407647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofile2xPVzb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594977411146	Marionette	INFO	Listening on port 51233
+1594977411521	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error writing request: getGrids"
+1594978454366	Marionette	INFO	Stopped listening on port 51233
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594977609359	Marionette	INFO	Listening on port 51619
+1594977609393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594977677112	Marionette	INFO	Stopped listening on port 51619
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594977684512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileBFBBa6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594977687128	Marionette	INFO	Listening on port 51894
+1594977687253	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error writing request: getGrids"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1020:24\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): can't access dead object from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1020:24)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: "Error writing request: getGrids"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: "Error writing request: getGrids"
+1594978449657	Marionette	INFO	Stopped listening on port 51894
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594978465587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileWcw9wL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594978467842	Marionette	INFO	Listening on port 53017
+1594978467878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594978622808	Marionette	INFO	Stopped listening on port 53017
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594978630091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilehtCCFl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594978632182	Marionette	INFO	Listening on port 53305
+1594978632241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594978678470	Marionette	INFO	Stopped listening on port 53305
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594978685863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileslUETA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594978688054	Marionette	INFO	Listening on port 53483
+1594978688109	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594978842290	Marionette	INFO	Stopped listening on port 53483
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594978847762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileB5CnlX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594978849955	Marionette	INFO	Listening on port 53723
+1594978850039	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594979119629	Marionette	INFO	Stopped listening on port 53723
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594978952494	Marionette	INFO	Listening on port 53912
+1594978952959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594978998692	Marionette	INFO	Stopped listening on port 53912
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594979127969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofile8gBqlF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594979130158	Marionette	INFO	Listening on port 54144
+1594979130226	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594979281049	Marionette	INFO	Stopped listening on port 54144
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594979289927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilezU8ptH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594979292198	Marionette	INFO	Listening on port 54402
+1594979292691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594984136356	Marionette	INFO	Stopped listening on port 54402
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594979431255	Marionette	INFO	Listening on port 54660
+1594979431398	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+1594981763974	Marionette	INFO	Stopped listening on port 54660
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594981769746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofile71iDEN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594981772052	Marionette	INFO	Listening on port 55029
+1594981772503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594981831806	Marionette	INFO	Stopped listening on port 55029
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594981836490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileR6VUX4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594981838754	Marionette	INFO	Listening on port 55186
+1594981839255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594981890900	Marionette	INFO	Stopped listening on port 55186
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594981897122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilefxgkeB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594981899333	Marionette	INFO	Listening on port 55385
+1594981899382	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12596, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1594981986240	Marionette	INFO	Stopped listening on port 55385
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594981991871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileJlmvan"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594981994108	Marionette	INFO	Listening on port 55587
+1594981994123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594982076152	Marionette	INFO	Stopped listening on port 55587
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594982081071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileDMp9ty"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594982083321	Marionette	INFO	Listening on port 55783
+1594982083339	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error writing request: getGrids"
+1594982198859	Marionette	INFO	Stopped listening on port 55783
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594982204432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofiletBgEuW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594982206632	Marionette	INFO	Listening on port 55996
+1594982206690	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error writing request: getGrids"
+1594984180308	Marionette	INFO	Stopped listening on port 55996
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594982670999	Marionette	INFO	Listening on port 56281
+1594982671224	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594982841632	Marionette	INFO	Stopped listening on port 56281
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594982847958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofile47iKgg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594982850353	Marionette	INFO	Listening on port 56546
+1594982850724	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594983012781	Marionette	INFO	Stopped listening on port 56546
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594983022401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileu9T6jW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594983024598	Marionette	INFO	Listening on port 56816
+1594983024637	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:587:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:587:5)", "resource://devtools/shared/protocol/Front.js", 323))
+1594983145675	Marionette	INFO	Stopped listening on port 56816
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594983151049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofile2o5S9q"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594983153326	Marionette	INFO	Listening on port 57022
+1594983153828	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error writing request: getGrids"
+1594983302298	Marionette	INFO	Stopped listening on port 57022
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594983308043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileCfehmU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594983310319	Marionette	INFO	Listening on port 57270
+1594983310335	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error writing request: getGrids"
+[Child 18612, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Child 18612, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1594983437253	Marionette	INFO	Stopped listening on port 57270
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594983442483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileERaVnS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594983444868	Marionette	INFO	Listening on port 57492
+1594983445248	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594984176482	Marionette	INFO	Stopped listening on port 57492
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595054606390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilekDt3XP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595054610138	Marionette	INFO	Listening on port 62674
+1595054610254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+1595054778391	Marionette	INFO	Stopped listening on port 62674
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595054808234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileHQ0QA9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595054811361	Marionette	INFO	Listening on port 63303
+1595054811477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595054866198	Marionette	INFO	Stopped listening on port 63303
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595054872496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilevLLM4B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595054875833	Marionette	INFO	Listening on port 63629
+1595054875859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390136,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390136,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390136,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3900BF,name=PContent::Msg_SetGeolocationHigherAccuracy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390136,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1595247356693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileqmAawg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595247359921	Marionette	INFO	Listening on port 50669
+1595247360076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595247420300	Marionette	INFO	Stopped listening on port 50669
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595247427396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilercnG15"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595247429705	Marionette	INFO	Listening on port 50865
+1595247430156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595249366712	Marionette	INFO	Stopped listening on port 50865
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+urce://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595247755912	Marionette	INFO	Listening on port 51047
+1595247756700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595247812535	Marionette	INFO	Stopped listening on port 51047
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595247817874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileRVUR56"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595247820255	Marionette	INFO	Listening on port 51243
+1595247820645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248362604	Marionette	INFO	Stopped listening on port 51243
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595248370019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileA0uzUd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595248372649	Marionette	INFO	Listening on port 51524
+1595248372794	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595249361629	Marionette	INFO	Stopped listening on port 51524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595409380764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofile6c7t8A"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595409383929	Marionette	INFO	Listening on port 60008
+1595409384040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595409421322	Marionette	INFO	Stopped listening on port 60008
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595676753297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofile0pd5Co"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595676756661	Marionette	INFO	Listening on port 59830
+1595676756762	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 558"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:558:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 558, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 558: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error writing request: getGrids"
+1595677174568	Marionette	INFO	Stopped listening on port 59830
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595677181107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileHDlFvn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595677183248	Marionette	INFO	Listening on port 60110
+1595677183345	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 558"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:558:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 558, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 558: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: "Error writing request: getGrids"
+1595677449398	Marionette	INFO	Stopped listening on port 60110
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595677455680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilel3737j"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595677457994	Marionette	INFO	Listening on port 60374
+1595677458417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595677623612	Marionette	INFO	Stopped listening on port 60374
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595677633508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileJqw3bM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595677635793	Marionette	INFO	Listening on port 60647
+1595677636246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595677841029	Marionette	INFO	Stopped listening on port 60647
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595677847024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilesaqvTG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595677849298	Marionette	INFO	Listening on port 60907
+1595677849754	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 558"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:558:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 558, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 558: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1595678433041	Marionette	INFO	Stopped listening on port 60907
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595678438736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileeMSUJX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595678442321	Marionette	INFO	Listening on port 61174
+1595678442581	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595678472785	Marionette	INFO	Stopped listening on port 61174
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595678541598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilet1K3oW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595678543807	Marionette	INFO	Listening on port 61365
+1595678543834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595678596685	Marionette	INFO	Stopped listening on port 61365
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595678606273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileSKcSOJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595678608430	Marionette	INFO	Listening on port 61585
+1595678608502	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 558"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:558:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 558, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 558: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error writing request: getGrids"
+1595679038093	Marionette	INFO	Stopped listening on port 61585
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595679043869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileBob4aD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595679046160	Marionette	INFO	Listening on port 61859
+1595679046613	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 558"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:558:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 558, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 558: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error writing request: getGrids"
+1595681433615	Marionette	INFO	Stopped listening on port 61859
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595681447245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilexrbnqL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595681449439	Marionette	INFO	Listening on port 52420
+1595681449471	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 558"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:558:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 558, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 558: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error writing request: getGrids"
+1595681682340	Marionette	INFO	Stopped listening on port 52420
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595681689445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileFuAK2r"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595681691633	Marionette	INFO	Listening on port 52694
+1595681691680	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595683852984	Marionette	INFO	Stopped listening on port 52694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595850493981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofile1Xjafr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595850497197	Marionette	INFO	Listening on port 65441
+1595850497208	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+IPDL protocol Error: Received an invalid file descriptor
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595851649941	Marionette	INFO	Stopped listening on port 65441
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilesS7EaQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595851157316	Marionette	INFO	Listening on port 49455
+1595851157361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595851649836	Marionette	INFO	Stopped listening on port 49455
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595851255727	Marionette	INFO	Listening on port 49617
+1595851255766	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595851649871	Marionette	INFO	Stopped listening on port 49617
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595851525825	Marionette	INFO	Listening on port 49813
+1595851525868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595851649944	Marionette	INFO	Stopped listening on port 49813
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595851700180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileejcs11"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595851703765	Marionette	INFO	Listening on port 50041
+1595851704041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595852113713	Marionette	INFO	Stopped listening on port 50041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595851881197	Marionette	INFO	Listening on port 50223
+1595851881273	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1020:24\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): can't access dead object from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1020:24)", "resource://devtools/shared/protocol/Front.js", 323))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/domnode751, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:94:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:778:14
+
+1595852108203	Marionette	INFO	Stopped listening on port 50223
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595852157973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilerPuaCc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595852159829	Marionette	INFO	Listening on port 50550
+1595852160110	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/domnode143, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:251595855014101	Marionette	INFO	Stopped listening on port 50786
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+9:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:778:14
+
+1595855014117	Marionette	INFO	Stopped listening on port 50550
+
+###!!! [Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595852469686	Marionette	INFO	Listening on port 51122
+1595852469765	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/domnode360, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:94:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:778:14
+
+1595855014106	Marionette	INFO	Stopped listening on port 51122
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ed/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:94:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:778:14
+
+1595855014124	Marionette	INFO	Stopped listening on port 51378
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+profileuqpH68"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595853264416	Marionette	INFO	Listening on port 51805
+1595853264718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595855013991	Marionette	INFO	Stopped listening on port 51805
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595855104171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilellr6eA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595855106532	Marionette	INFO	Listening on port 52392
+1595855106885	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595857099796	Marionette	INFO	Stopped listening on port 52392
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595914526271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofile5jMr6W"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595914529020	Marionette	INFO	Listening on port 53682
+1595914529513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+1595914879009	Marionette	INFO	Stopped listening on port 53682
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595914885358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileOlhdHS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595914887522	Marionette	INFO	Listening on port 54010
+1595914887574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595917510461	Marionette	INFO	Stopped listening on port 54010
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilegWcFX3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595914996777	Marionette	INFO	Listening on port 54195
+1595914997215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+[Child 12452, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Child 12452, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1595917510263	Marionette	INFO	Stopped listening on port 54195
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+avaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error writing request: getGrids"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595917510421	Marionette	INFO	Stopped listening on port 54388
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595917516238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileWC4em7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595917518431	Marionette	INFO	Listening on port 55149
+1595917518472	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595917617475	Marionette	INFO	Stopped listening on port 55149
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595917624369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileKW3fbC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595917626590	Marionette	INFO	Listening on port 55355
+1595917626615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595935178453	Marionette	INFO	Stopped listening on port 55355
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilebkT39T"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595917903028	Marionette	INFO	Listening on port 55543
+1595917903126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595935178562	Marionette	INFO	Stopped listening on port 55543
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595918140611	Marionette	INFO	Listening on port 55854
+1595918140988	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: services.settings: 
+  pinning/pins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.1595935178247	Marionette	INFO	Stopped listening on port 56061
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+or/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+1595935178491	Marionette	INFO	Stopped listening on port 55854
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+after return statement
+1595935178285	Marionette	INFO	Stopped listening on port 56241
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilecV5cpu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595931336797	Marionette	INFO	Listening on port 57035
+1595931337281	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 558"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:558:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 558, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 558: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: services.settings: 
+  pinning/pins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:124:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:466:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595935178247	Marionette	INFO	Stopped listening on port 57035
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+istening on port 58092
+1595934557702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595935178201	Marionette	INFO	Stopped listening on port 58092
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595934924647	Marionette	INFO	Listening on port 58551
+1595934925019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595935178216	Marionette	INFO	Stopped listening on port 58551
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595935201695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileNO0AzH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595935204252	Marionette	INFO	Listening on port 58807
+1595935204414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595935206112	Marionette	INFO	Stopped listening on port 58807
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595935214904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileT5plhg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595935216958	Marionette	INFO	Listening on port 58861
+1595935217016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595936557735	Marionette	INFO	Stopped listening on port 58861
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595935544334	Marionette	INFO	Listening on port 59035
+1595935544434	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595936557803	Marionette	INFO	Stopped listening on port 59035
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595936283424	Marionette	INFO	Listening on port 59529
+1595936283474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595936557713	Marionette	INFO	Stopped listening on port 59529
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595936399945	Marionette	INFO	Listening on port 59634
+1595936400029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1595936557680	Marionette	INFO	Stopped listening on port 59634
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595936470654	Marionette	INFO	Listening on port 59738
+1595936470925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1595936557687	Marionette	INFO	Stopped listening on port 59738
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595936565414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilenyegK0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595936567475	Marionette	INFO	Listening on port 59883
+1595936567526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1595941509986	Marionette	INFO	Stopped listening on port 59883
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileSEvSFQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595936610246	Marionette	INFO	Listening on port 59950
+1595936610373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595941509021	Marionette	INFO	Stopped listening on port 59950
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilebafnzA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595936712259	Marionette	INFO	Listening on port 60010
+1595936712301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595941507979	Marionette	INFO	Stopped listening on port 60010
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileLeIO9B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595936846529	Marionette	INFO	Listening on port 60190
+1595936846552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595941495617	Marionette	INFO	Stopped listening on port 60190
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1595941496356	Marionette	INFO	Stopped listening on port 60309
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileiPHcGI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595937107261	Marionette	INFO	Listening on port 60517
+1595937107604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595941494401	Marionette	INFO	Stopped listening on port 60517
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595937644791	Marionette	INFO	Listening on port 60977
+1595937645132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595937860461	Marionette	INFO	Stopped listening on port 60977
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595937885618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileSNeoaj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595937887690	Marionette	INFO	Listening on port 61264
+1595937887730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595938209059	Marionette	INFO	Stopped listening on port 61264
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595938231918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofiley110Z5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595938234463	Marionette	INFO	Listening on port 61738
+1595938234631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+1595938611557	Marionette	INFO	Stopped listening on port 61738
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595938617830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofileR4kHwt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595938620172	Marionette	INFO	Listening on port 62059
+1595938620543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://live.demoguru99.com/js/mage/adminhtml/form.js, line 25: ReferenceError: Class is not defined
+JavaScript error: http://live.demoguru99.com/js/mage/captcha.js, line 25: ReferenceError: Class is not defined
+JavaScript error: http://live.demoguru99.com/index.php/backendlogin, line 45: TypeError: varienForm is not a constructor
+JavaScript error: http://live.demoguru99.com/js/scriptaculous/effects.js, line 73: ReferenceError: Prototype is not defined
+JavaScript error: http://live.demoguru99.com/js/scriptaculous/dragdrop.js, line 8: TypeError: Object.isUndefined is not a function
+JavaScript error: http://live.demoguru99.com/js/scriptaculous/controls.js, line 40: uncaught exception: controls.js requires including script.aculo.us' effects.js library
+JavaScript error: http://live.demoguru99.com/js/scriptaculous/slider.js, line 16: ReferenceError: Class is not defined
+JavaScript error: http://live.demoguru99.com/js/prototype/validation.js, line 29: ReferenceError: Class is not defined
+JavaScript error: http://live.demoguru99.com/js/varien/js.js, line 309: ReferenceError: Ajax is not defined
+JavaScript error: http://live.demoguru99.com/js/mage/translate.js, line 26: ReferenceError: Class is not defined
+JavaScript error: http://live.demoguru99.com/js/mage/adminhtml/events.js, line 26: ReferenceError: Class is not defined
+JavaScript error: http://live.demoguru99.com/js/mage/adminhtml/loader.js, line 26: ReferenceError: Class is not defined
+JavaScript error: http://live.demoguru99.com/js/mage/adminhtml/grid.js, line 25: ReferenceError: Class is not defined
+JavaScript error: http://live.demoguru99.com/js/mage/adminhtml/tabs.js, line 25: ReferenceError: Class is not defined
+JavaScript error: http://live.demoguru99.com/js/mage/adminhtml/form.js, line 25: ReferenceError: Class is not defined
+JavaScript error: http://live.demoguru99.com/js/mage/adminhtml/accordion.js, line 25: ReferenceError: Class is not defined
+JavaScript error: http://live.demoguru99.com/js/mage/adminhtml/product.js, line 28: ReferenceError: Class is not defined
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript error: http://live.demoguru99.com/index.php/backendlogin/customer/index/key/7d082b1018e2624dbb02b393ea42466d/, line 61: ReferenceError: Fieldset is not defined
+JavaScript error: http://live.demoguru99.com/index.php/backendlogin/customer/index/key/7d082b1018e2624dbb02b393ea42466d/, line 65: TypeError: Translate is not a constructor
+JavaScript error: http://live.demoguru99.com/index.php/backendlogin/customer/index/key/7d082b1018e2624dbb02b393ea42466d/, line 194: ReferenceError: $ is not defined
+JavaScript error: http://live.demoguru99.com/index.php/backendlogin/customer/index/key/7d082b1018e2624dbb02b393ea42466d/, line 232: TypeError: Event.observe is not a function
+1595939087197	Marionette	INFO	Stopped listening on port 62059
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596002850972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilegToUfR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596002854010	Marionette	INFO	Listening on port 63498
+1596002854244	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1596019975760	Marionette	INFO	Stopped listening on port 63498
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596019981639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofile4WDvuh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596019983922	Marionette	INFO	Listening on port 64479
+1596019984410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1596022688728	Marionette	INFO	Stopped listening on port 64479
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilesOoGjx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596020992090	Marionette	INFO	Listening on port 64684
+1596020992542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1596022688642	Marionette	INFO	Stopped listening on port 64684
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofilel7X8vl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596021452807	Marionette	INFO	Listening on port 64923
+1596021453221	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1596022688638	Marionette	INFO	Stopped listening on port 64923
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596021805739	Marionette	INFO	Listening on port 65058
+1596021806017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1596022688551	Marionette	INFO	Stopped listening on port 65058
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596021955367	Marionette	INFO	Listening on port 65136
+1596021955387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1596022688530	Marionette	INFO	Stopped listening on port 65136
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596022495644	Marionette	INFO	Listening on port 49797
+1596022495846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1596022688484	Marionette	INFO	Stopped listening on port 49797
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596022747768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sagar\\AppData\\Local\\Temp\\rust_mozprofile5j76zJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596022750310	Marionette	INFO	Listening on port 50297
+1596022750538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://live.demoguru99.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+[Parent 5068, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 5068, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1596089731188	Marionette	INFO	Stopped listening on port 50297
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
